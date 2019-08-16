@@ -10,7 +10,7 @@ os = ["windows"]
 tactics = ["Execution"]
 techniques = ["T1047"]
 updated_date = "8/16/2019"
-references = []
+references = ["https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-8de93338c16"]
 
 [analytic]
 query = '''
