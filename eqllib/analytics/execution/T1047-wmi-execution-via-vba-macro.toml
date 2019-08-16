@@ -1,7 +1,7 @@
 [analytic.metadata]
 categories = ["detect"]
 confidence = "medium"
-contributors = ["David French (@threatpunter)"]
+contributors = ["David French"]
 created_date = "8/16/2019"
 description = "Identifies the execution of Windows Management Instrumentation (WMI) via a Microsoft Office application."
 id = "e6be5ffe-c765-4e13-962d-7eaae07aeaec"
